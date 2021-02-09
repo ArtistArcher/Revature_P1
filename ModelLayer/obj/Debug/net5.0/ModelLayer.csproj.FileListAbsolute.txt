@@ -1,0 +1,12 @@
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\bin\Debug\net5.0\ModelLayer.deps.json
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\bin\Debug\net5.0\ModelLayer.dll
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\bin\Debug\net5.0\ref\ModelLayer.dll
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\bin\Debug\net5.0\ModelLayer.pdb
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\obj\Debug\net5.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\obj\Debug\net5.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\obj\Debug\net5.0\ModelLayer.AssemblyInfo.cs
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\obj\Debug\net5.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\obj\Debug\net5.0\ModelLayer.dll
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\obj\Debug\net5.0\ref\ModelLayer.dll
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\obj\Debug\net5.0\ModelLayer.pdb
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\ModelLayer\obj\Debug\net5.0\ModelLayer.csprojAssemblyReference.cache

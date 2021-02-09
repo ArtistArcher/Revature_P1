@@ -1,0 +1,17 @@
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.deps.json
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.dll
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\bin\Debug\net5.0\ref\BusinessLogicLayer.dll
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\bin\Debug\net5.0\BusinessLogicLayer.pdb
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\bin\Debug\net5.0\ModelLayer.dll
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\bin\Debug\net5.0\RepositoryLayer.dll
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\bin\Debug\net5.0\ModelLayer.pdb
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\bin\Debug\net5.0\RepositoryLayer.pdb
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.dll
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\obj\Debug\net5.0\ref\BusinessLogicLayer.dll
+C:\Users\Ryana\Desktop\Revature GIT Folder\RyanArcherRepo1\P1_RyanArcher\BusinessLogicLayer\obj\Debug\net5.0\BusinessLogicLayer.pdb
